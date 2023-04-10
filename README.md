@@ -19,7 +19,7 @@
       <li>Responsive design that works on different screen sizes</li>
     </ul>
     <h2>Usage</h2>
-    <p>To view the website, you can simply visit the deployed website at [insert website URL here]. Alternatively, you can clone the repository to your local machine and open the <code>index.html</code> file in your web browser.</p>
+    <p>To view the website, you can simply visit the deployed website at https://supremecosta.github.io/project-portfolio/. Alternatively, you can clone the repository to your local machine and open the <code>index.html</code> file in your web browser.</p>
     <h2>Contributing</h2>
     <p>I am not currently accepting contributions to this project as it is a personal portfolio website.</p>
     <h2>License</h2>
