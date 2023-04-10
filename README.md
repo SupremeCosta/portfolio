@@ -2,6 +2,16 @@
 <html>
   <body>
     <h1>My Portfolio</h1>
+    <h2>Table of Contents</h2>
+    <ul>
+      <li>Description</li>
+      <li>Technologies Used</li>
+      <li>Features</li>
+      <li>Usage</li>
+      <li>Visuals</li>
+      <li>Contributing</li>
+      <li>License</li>
+    </ul>
     <h2>Description</h2>
     <p>This is my personal portfolio website, showcasing my skills and projects.</p>
     <h2>Technologies Used</h2>
