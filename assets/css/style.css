@@ -53,6 +53,14 @@ h2 {
     font-size: 24px;
     margin-bottom: 10px;
   }
+
+.about {
+    background-color: antiquewhite;
+}
+
+.contact {
+    background-color: antiquewhite;
+}
   
 p {
     line-height: 1.5;
