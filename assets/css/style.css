@@ -39,10 +39,25 @@ section {
   }
 
 section img {
-    max-width: 200px;
+    max-width: 150px;
     margin-right: 20px;
     display:flex;
   }
+
+.about-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.about-content img {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.about-content p {
+    flex: 2;
+}
   
 h1 {
     font-size: 36px;
@@ -72,4 +87,32 @@ footer {
     padding: 10px;
     text-align: center;
   }
+
+/* Media queries */
+@media only screen and (max-width: 768px) {
+    section {
+      padding: 30px;
+    }
   
+    h2 {
+      font-size: 1.5em;
+    }
+  
+    p {
+      font-size: 0.8em;
+    }
+  }
+  
+@media only screen and (max-width: 480px) {
+    section {
+      padding: 20px;
+    }
+  
+    h2 {
+      font-size: 1.2em;
+    }
+  
+    p {
+      font-size: 0.6em;
+    }
+  }
